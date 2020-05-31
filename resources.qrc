@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Print.png</file>
+        <file>Searchtool.svg.png</file>
+    </qresource>
+</RCC>
